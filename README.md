@@ -1,4 +1,4 @@
-# urban-octo-telegram
+
 Jamal Nath, fullstack web developer, located in Ottawa ON, CA.
 
 I structured the semantic HTML elements in index.html and style.css.
@@ -12,3 +12,7 @@ I made the heading attributes follow a sequential order in index.html and style.
 I created a a concise, descriptive title in index.html
 
 I eliminated repition of styles for like elements in style.css and index.html
+
+https://github.com/jnath022/challenge-1-refractor
+
+https://jnath022.github.io/challenge-1-refractor/
